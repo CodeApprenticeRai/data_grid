@@ -1,3 +1,14 @@
 * Write Front-End
 * Learn to Use Typescript, Again.
+* Make dynamic the number of rows in the table.
+* Rewrite the border color so that every div is colored individually.
 * Write Back-End
+-----
+Review - Tare Gaskin at 8/6/2024 16:06
+This is cool and nice but it took me two hours to set the 
+the grid dimensions correctly and set each cell to grow on hover.
+My goal next is to:
+* Fix the hover transition so that the underlying border doesn't show onhover.
+* Publish a version of the grid.
+* Add Cat Species or Ants or some other Kind of Animal or Thing.
+* Publish.
